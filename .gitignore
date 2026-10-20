@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 本地数据库/临时
+*.db
+*.sqlite
+
+# 系统
+.DS_Store
+
+# 简历草稿（不想公开就取消下一行注释）
+# 简历_*.md
